@@ -25,6 +25,7 @@
 - [@tangwz](https://github.com/tangwz)
 - [@shihongzhi](https://github.com/shihongzhi)
 - [@js00070](https://github.com/js00070)
+- [@Yisaer](https://github.com/Yisaer)
 
 ## Active Contributors
 
